@@ -1,1 +1,2 @@
 Hello , this is the first git commit
+I built a Chrome extension that helps developers.
