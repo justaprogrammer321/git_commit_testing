@@ -1,2 +1,3 @@
 Hello , this is the first git commit
 I built a Chrome extension that helps developers view Jira tickets directly inside GitHub.
+It detects Jira project keys in commit messages.
