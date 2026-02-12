@@ -1,3 +1,4 @@
 Hello , this is the first git commit
 I built a Chrome extension that helps developers view Jira tickets directly inside GitHub.
 It detects Jira project keys in commit messages and shows a tooltip with quick access to the corresponding ticket.
+Instead of switching tabs repeatedly, developers can now review code and requirements in a single workflow.
